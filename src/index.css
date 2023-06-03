@@ -13,3 +13,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+li {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  border: 1px bisque solid;
+  border-radius: 6px;
+  padding: 8px;
+}
